@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://www.jieth.com
 date_format: "ordinal"
 title: 码志
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+description: "Jieth的个人博客"
+keywords: Jieth,码, jiethlogin
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -93,8 +93,8 @@ twitter_username: mzlogin
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
-disqus_username: mzlogin
+duoshuo_username: Jieth
+disqus_username: Jieth
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: true
 
