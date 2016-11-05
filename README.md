@@ -1,6 +1,6 @@
 # 0.o
 
-我的个人博客：<http://www.jiethma.com>
+我的个人博客：<http://jiethma.com>
 
 ## 概览
 
@@ -13,12 +13,6 @@
 * [致谢](#致谢)
 
 <!-- vim-markdown-toc -->
-
-## 效果预览
-
-### [在线预览 &rarr;](http://mazhuang.org)
-
-![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
