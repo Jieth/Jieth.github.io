@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.jieth.com
+url: http://jiethma.com
 date_format: "ordinal"
-title: 码志
+title: 0.o
 subtitle: "打码改变人生"
 description: "Jieth的个人博客"
 keywords: Jieth,码, jiethlogin
