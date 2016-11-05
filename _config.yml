@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://jiethma.com
+url: http://www.jiethma.com
 date_format: "ordinal"
 title: 0.o
 subtitle: "打码改变人生"
